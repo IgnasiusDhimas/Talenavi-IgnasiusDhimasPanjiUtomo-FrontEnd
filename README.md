@@ -1,4 +1,4 @@
-# Frontend Technical Test - Login Page 
+# Tes Frontend Talenavi - Fullstack 
 
 Proyek ini merupakan hasil *slicing* desain halaman Login dari Figma menjadi halaman website yang sepenuhnya responsif menggunakan HTML, CSS, dan Vanilla JavaScript.
 
