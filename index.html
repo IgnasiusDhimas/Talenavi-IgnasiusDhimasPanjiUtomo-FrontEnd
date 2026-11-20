@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Taleanvi login</title>
+    <link href="https://googleapis.com" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="kotak-besar">
+        <div class="fotokiri"></div>
+        
+        <div class="separuhkanan">
+            <img src="foto/logotalenavi.png" class="logotalenavi">
+            <h2>Selamat Datang Kembali!</h2>
+
+            <form class="kotaklogin" id="loginForm" novalidate>
+                <div class="duaforminput">
+                    <h3>Email</h3>
+                    <input type="email" id="email" placeholder="Enter your email" required>
+                    <span class="pesanerror" id="errorEmail"></span>
+                </div>
+                <div class="duaforminput">
+                    <h3>Password</h3>
+                    <input type="password" id="password" placeholder="Enter your password" required>
+                    <span class="pesanerror" id="errorPassword"></span>
+                </div>
+
+                <div class="lupapassword">
+                    <a href="#">Lupa Password?</a>
+                </div>
+
+                <div class="tombolsignin">
+                    <button type="submit">Sign In</button>
+                </div>
+            </form>
+
+            <div class="registrasi">
+                Belum punya akun? <a href="#">Daftar di sini</a>
+            </div>
+        </div>
+
+        <script src="script.js"></script>
+    </div>
+</body>
+</html>
