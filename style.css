@@ -215,6 +215,8 @@ body {
     .duaforminput input {
         border: none;
         height: 50px;
+        background-color: #FFFFFF;
+        color: #ADB5BD;
     }
 
     .lupapassword {
