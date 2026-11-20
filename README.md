@@ -3,7 +3,7 @@
 Proyek ini merupakan hasil *slicing* desain halaman Login dari Figma menjadi halaman website yang sepenuhnya responsif menggunakan HTML, CSS, dan Vanilla JavaScript.
 
 **Author:** Ignasius Dhimas Panji Utomo  
-**Live Demo:** [https://github.io](https://ignasiusdhimas.github.io/Talenavi-IgnasiusDhimasPanjiUtomo-FrontEnd/))
+**Live Demo:** [https://github.io](https://ignasiusdhimas.github.io/Talenavi-IgnasiusDhimasPanjiUtomo-FrontEnd/)
 ## Tech Stack
 
 - **HTML5** — Struktur halaman
